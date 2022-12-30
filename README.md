@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Glen Quadros</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=glen-quadros&label=Profile%20views&color=0e75b6&style=flat" alt="glen-quadros" /> </p>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/tZ2Xd8LqAnMAAAAd/typing-fast.gif">
-<p align="left"> <a href="https://twitter.com/glen_quadros" target="blank"><img src="https://img.shields.io/twitter/follow/glen_quadros?logo=twitter&style=for-the-badge" alt="glen_quadros" /></a> </p>
 
 # 💫 About Me:
 🔭 I’m currently working on Web Development and Data Science Projects<br>🌱 I’m currently learning<br>💬 Ask me about related to Machine Learning, Artificial Intelligence or Data Structure and Algorithms <br>📫 How to reach me glenquadros2@icloud.com
