@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Glen Quadros</h1>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/tZ2Xd8LqAnMAAAAd/typing-fast.gif">
+
 
 # 💫 About Me:
 🔭 I’m currently working on Web Development and Data Science Projects<br>🌱 I’m currently learning<br>💬 Ask me about related to Machine Learning, Artificial Intelligence or Data Structure and Algorithms <br>📫 How to reach me glenquadros2@icloud.com
